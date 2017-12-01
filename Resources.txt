@@ -1,0 +1,9 @@
+
+1. ParlAI - https://github.com/facebookresearch/ParlAI
+2. Stanford Tensorflow - https://github.com/chiphuyen/stan
+3. DeepQA - https://github.com/Conchylicultor/DeepQA
+4. neuralconvo - https://github.com/macournoyer/neuralconvo
+5. chatbot-rnn - https://github.com/pender/chatbot-rnn
+
+
+Courtesy - Awesome Chatbots: https://github.com/fendouai/Awesome-Chatbot
